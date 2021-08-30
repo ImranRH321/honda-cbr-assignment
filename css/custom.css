@@ -1,0 +1,31 @@
+.banner-section {
+    background: #264653;;
+}
+.background{
+    filter: grayscale(100%);
+}
+.btn-color{
+    background: #E76F51; 
+}
+.color{
+    color: #E76F51;
+}
+.c-color{
+    color: #23A6F0;
+}
+a{
+    text-decoration: none;
+    margin: 0px 10px;
+    color:#fff;
+   
+}
+a:hover{
+ text-decoration: underline;
+}
+i{
+    color: #E76F51;
+}
+footer{
+    background: #0B0D17;
+    padding: 20px 0;
+}
